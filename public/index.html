@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="kk">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Студенттердің үлгерімі</title>
+  <link rel="icon" type="image/svg+xml" href="favicon.svg">
+  <link rel="stylesheet" href="style.css">
+  <script src="/vendor/chart.js/chart.umd.js"></script>
+</head>
+<body>
+  <div class="container">
+    <header class="topbar">
+      <h1><span class="logo"><i data-icon="cap" data-size="26"></i></span>Студенттердің үлгерімін есептеу жүйесі</h1>
+      <div class="top-actions">
+        <button id="themeBtn" class="secondary small" title="Тақырыпты ауыстыру"><i data-icon="moon"></i></button>
+        <button id="loginBtn" class="small">Мұғалім кіруі</button>
+      </div>
+    </header>
+
+    <section class="stats" id="stats"></section>
+
+    <section class="card admin-only" id="formCard" hidden>
+      <h2 id="formTitle">Жаңа студент қосу</h2>
+      <div class="form">
+        <input id="name" class="wide" placeholder="Студенттің аты-жөні" maxlength="60">
+        <input id="group" list="groupList" placeholder="Топ (мыс. ИС-23)" maxlength="30">
+        <datalist id="groupList"></datalist>
+        <span id="scoreInputs" class="score-inputs"></span>
+        <button id="saveBtn">Есептеу және қосу</button>
+        <button id="cancelBtn" class="secondary" hidden>Бас тарту</button>
+      </div>
+      <p class="hint">Бағаны бос қалдыруға болады, орташа балл тек енгізілген бағалардан есептеледі.</p>
+    </section>
+
+    <section class="card">
+      <div class="toolbar">
+        <input id="search" placeholder="Студентті іздеу...">
+        <select id="groupFilter"><option value="">Барлық топтар</option></select>
+        <select id="sort">
+          <option value="">Сұрыптау: қосылу реті</option>
+          <option value="avg_desc">Орташа балл: жоғарыдан төмен</option>
+          <option value="avg_asc">Орташа балл: төменнен жоғары</option>
+          <option value="name">Аты бойынша (А-Я)</option>
+        </select>
+      </div>
+      <div class="toolbar actions">
+        <button id="exportBtn" class="secondary small"><i data-icon="download"></i>Excel (CSV)</button>
+        <button id="importBtn" class="secondary small admin-only" hidden><i data-icon="upload"></i>CSV импорт</button>
+        <button id="subjectsBtn" class="secondary small admin-only" hidden><i data-icon="settings"></i>Пәндер</button>
+        <input id="importFile" type="file" accept=".csv,text/csv" hidden>
+      </div>
+      <div class="table-wrap">
+        <table>
+          <thead><tr id="headRow"></tr></thead>
+          <tbody id="results"></tbody>
+        </table>
+      </div>
+      <p id="empty" class="empty" hidden>Студент табылмады</p>
+    </section>
+
+    <section class="charts">
+      <div class="card"><h2>Орташа балдар</h2><canvas id="barChart"></canvas></div>
+      <div class="card"><h2>Үлгерім деңгейлері</h2><canvas id="pieChart"></canvas></div>
+    </section>
+    <section class="card"><h2>Пәндер бойынша орташа балл</h2><canvas id="subjectChart" height="90"></canvas></section>
+  </div>
+
+  <dialog id="loginDialog">
+    <h2>Мұғалім кіруі</h2>
+    <input id="password" type="password" placeholder="Құпия сөз">
+    <div class="dialog-actions">
+      <button id="loginOk">Кіру</button>
+      <button id="loginCancel" class="secondary">Бас тарту</button>
+    </div>
+  </dialog>
+
+  <dialog id="subjectsDialog">
+    <h2>Пәндерді басқару</h2>
+    <ul id="subjectList" class="subject-list"></ul>
+    <div class="dialog-actions">
+      <input id="newSubject" placeholder="Жаңа пән атауы" maxlength="30">
+      <button id="addSubjectBtn"><i data-icon="plus"></i>Қосу</button>
+    </div>
+    <div class="dialog-actions"><button id="subjectsClose" class="secondary">Жабу</button></div>
+  </dialog>
+
+  <dialog id="detailDialog" class="wide-dialog">
+    <h2 id="detailTitle"></h2>
+    <p id="detailMeta" class="meta"></p>
+    <canvas id="detailChart" height="140"></canvas>
+    <div class="dialog-actions"><button id="detailClose" class="secondary">Жабу</button></div>
+  </dialog>
+
+  <button id="chatFab" class="chat-fab" title="Чат"><i data-icon="chat" data-size="26"></i><span id="chatBadge" class="chat-badge" hidden>0</span></button>
+  <section id="chatPanel" class="chat-panel" hidden>
+    <div class="chat-head"><b class="chat-title"><i data-icon="chat" data-size="18"></i>Топтық чат</b><button id="chatClose" class="small secondary" title="Жабу"><i data-icon="close" data-size="14"></i></button></div>
+    <div id="chatMessages" class="chat-messages"></div>
+    <div id="chatNameRow" class="chat-name"><input id="chatName" placeholder="Сіздің атыңыз" maxlength="20"></div>
+    <div class="chat-send">
+      <input id="chatText" placeholder="Хабарлама жазыңыз..." maxlength="300" autocomplete="off">
+      <button id="chatSend" title="Жіберу"><i data-icon="send" data-size="18"></i></button>
+    </div>
+  </section>
+
+  <div id="toast" class="toast" hidden></div>
+  <script src="icons.js"></script>
+  <script src="app.js"></script>
+  <script src="chat.js"></script>
+</body>
+</html>

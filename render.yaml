@@ -1,0 +1,22 @@
+# Render.com: Dashboard → New → Blueprint → осы репозиторийді таңдаңыз
+services:
+  - type: web
+    name: student-grades
+    runtime: node
+    plan: starter            # тұрақты диск тек ақылы тарифте бар
+    buildCommand: npm install
+    startCommand: npm start
+    healthCheckPath: /api/subjects
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: ADMIN_PASSWORD  # Render іске қосқанда өзіңіз енгізесіз
+        sync: false
+      - key: PRIVATE_VIEW    # "1" = бағаларды тек мұғалім көреді (нақты деректер үшін)
+        value: "1"
+      - key: DATA_DIR
+        value: /var/data
+    disk:
+      name: data
+      mountPath: /var/data
+      sizeGB: 1

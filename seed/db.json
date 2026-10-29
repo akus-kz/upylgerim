@@ -1,0 +1,2181 @@
+{
+  "subjects": [
+    {
+      "id": "math",
+      "name": "Математика"
+    },
+    {
+      "id": "info",
+      "name": "Информатика"
+    },
+    {
+      "id": "chem",
+      "name": "Химия"
+    },
+    {
+      "id": "bio",
+      "name": "Биология"
+    },
+    {
+      "id": "pe",
+      "name": "Физическая культура"
+    },
+    {
+      "id": "foreign",
+      "name": "Иностранный язык"
+    },
+    {
+      "id": "kzhist",
+      "name": "История Казахстана"
+    },
+    {
+      "id": "worldhist",
+      "name": "Всемирная история"
+    },
+    {
+      "id": "kaz",
+      "name": "Казахский язык"
+    },
+    {
+      "id": "kazlit",
+      "name": "Казахская литература"
+    },
+    {
+      "id": "rus",
+      "name": "Русский язык и литература"
+    },
+    {
+      "id": "phys",
+      "name": "Физика и астрономия"
+    }
+  ],
+  "students": [
+    {
+      "id": "1daedab1-3ed6-4f26-b7d8-1203d7503071",
+      "name": "Адилбай Нұрдаулет Бердибекұлы",
+      "group": "АИУ-22",
+      "scores": {
+        "kaz": 68,
+        "kazlit": 72,
+        "rus": 75,
+        "foreign": 74,
+        "kzhist": 71,
+        "worldhist": 72,
+        "math": 62,
+        "info": 68,
+        "phys": 66,
+        "chem": 72,
+        "bio": 75,
+        "pe": 93
+      }
+    },
+    {
+      "id": "949aa62f-782a-4490-8cdb-88ac199b0f69",
+      "name": "Алпысбай Рамазан Досымұлы",
+      "group": "АИУ-22",
+      "scores": {
+        "kaz": 80,
+        "kazlit": 92,
+        "rus": 75,
+        "foreign": 90,
+        "kzhist": 90,
+        "worldhist": 90,
+        "math": 75,
+        "info": 77,
+        "phys": 90,
+        "chem": 90,
+        "bio": 90,
+        "pe": 95
+      }
+    },
+    {
+      "id": "f2d1c3a8-7268-4294-b596-d72d583a888d",
+      "name": "Базарбай Темирлан Қайратұлы",
+      "group": "АИУ-22",
+      "scores": {
+        "kaz": 77,
+        "kazlit": 79,
+        "rus": 78,
+        "foreign": 88,
+        "kzhist": 74,
+        "worldhist": 79,
+        "math": 74,
+        "info": 74,
+        "phys": 76,
+        "chem": 74,
+        "bio": 80,
+        "pe": 91
+      }
+    },
+    {
+      "id": "381805b5-2773-462f-bf1e-993905f02fca",
+      "name": "Бисен Бақытжан Мұратұлы",
+      "group": "АИУ-22",
+      "scores": {
+        "kaz": 78,
+        "kazlit": 79,
+        "rus": 75,
+        "foreign": 76,
+        "kzhist": 78,
+        "worldhist": 75,
+        "math": 72,
+        "info": 76,
+        "phys": 83,
+        "chem": 74,
+        "bio": 75,
+        "pe": 95
+      }
+    },
+    {
+      "id": "4d785dc0-98be-47e9-94a9-8270dcbed2c2",
+      "name": "Жақсығалиұлы Ұлағат",
+      "group": "АИУ-22",
+      "scores": {
+        "kaz": 81,
+        "kazlit": 77,
+        "rus": 73,
+        "foreign": 74,
+        "kzhist": 74,
+        "worldhist": 72,
+        "math": 74,
+        "info": 73,
+        "phys": 82,
+        "chem": 75,
+        "bio": 76,
+        "pe": 92
+      }
+    },
+    {
+      "id": "480166e2-7907-4938-a8ec-432602bc36f1",
+      "name": "Жарылға Сабыржан Оразұлы",
+      "group": "АИУ-22",
+      "scores": {
+        "kaz": 77,
+        "kazlit": 90,
+        "rus": 86,
+        "foreign": 90,
+        "kzhist": 84,
+        "worldhist": 90,
+        "math": 75,
+        "info": 74,
+        "phys": 90,
+        "chem": 90,
+        "bio": 90,
+        "pe": 95
+      }
+    },
+    {
+      "id": "8cebf9e5-dc9b-464e-a17a-6dd413b32abc",
+      "name": "Жоламан Жансерік Бакытбекұлы",
+      "group": "АИУ-22",
+      "scores": {
+        "kaz": 77,
+        "kazlit": 73,
+        "rus": 75,
+        "foreign": 74,
+        "kzhist": 74,
+        "worldhist": 74,
+        "math": 85,
+        "info": 74,
+        "phys": 82,
+        "chem": 90,
+        "bio": 79,
+        "pe": 91
+      }
+    },
+    {
+      "id": "eaf21ff5-6a51-4b2c-be1f-a7f53f223aa8",
+      "name": "Жолдыбай Жасұлан Аскерұлы",
+      "group": "АИУ-22",
+      "scores": {
+        "kaz": 69,
+        "kazlit": 78,
+        "rus": 73,
+        "foreign": 72,
+        "kzhist": 68,
+        "worldhist": 72,
+        "math": 63,
+        "info": 73,
+        "phys": 79,
+        "chem": 73,
+        "bio": 74,
+        "pe": 93
+      }
+    },
+    {
+      "id": "a709c98a-f851-4c94-9595-bf31c4c046f0",
+      "name": "Жүсүп Әбілқайыр Жұмасатұлы",
+      "group": "АИУ-22",
+      "scores": {
+        "kaz": 81,
+        "kazlit": 82,
+        "rus": 70,
+        "foreign": 74,
+        "kzhist": 77,
+        "worldhist": 76,
+        "math": 70,
+        "info": 79,
+        "phys": 80,
+        "chem": 74,
+        "bio": 79,
+        "pe": 92
+      }
+    },
+    {
+      "id": "0ffc832e-0188-45da-aad4-b133e1c1fa0d",
+      "name": "Қуантқан Арман Сағындықұлы",
+      "group": "АИУ-22",
+      "scores": {
+        "kaz": 62,
+        "kazlit": 60,
+        "rus": 70,
+        "foreign": 73,
+        "kzhist": 65,
+        "worldhist": 73,
+        "math": 64,
+        "info": 69,
+        "phys": 69,
+        "chem": 73,
+        "bio": 71,
+        "pe": 90
+      }
+    },
+    {
+      "id": "75c03b73-a50f-4c00-9ddf-a9bcd931c157",
+      "name": "Мұрат Нұрсәт Мирамғалиұлы",
+      "group": "АИУ-22",
+      "scores": {
+        "kaz": 66,
+        "kazlit": 55,
+        "rus": 71,
+        "foreign": 70,
+        "kzhist": 64,
+        "worldhist": 73,
+        "math": 50,
+        "info": 69,
+        "phys": 63,
+        "chem": 74,
+        "bio": 70,
+        "pe": 89
+      }
+    },
+    {
+      "id": "42ba2b52-565f-4cf7-9a19-2125d1f87e19",
+      "name": "Оразмырад Алихан Берикжанұлы",
+      "group": "АИУ-22",
+      "scores": {
+        "kaz": 78,
+        "kazlit": 87,
+        "rus": 95,
+        "foreign": 91,
+        "kzhist": 80,
+        "worldhist": 84,
+        "math": 77,
+        "info": 90,
+        "phys": 90,
+        "chem": 91,
+        "bio": 80,
+        "pe": 94
+      }
+    },
+    {
+      "id": "1397ad2c-3f3e-47f4-9f79-0226e4993f1d",
+      "name": "Өтеген Азамат Мұхтарұлы",
+      "group": "АИУ-22",
+      "scores": {
+        "kaz": 84,
+        "kazlit": 89,
+        "rus": 86,
+        "foreign": 84,
+        "kzhist": 82,
+        "worldhist": 82,
+        "math": 73,
+        "info": 87,
+        "phys": 85,
+        "chem": 84,
+        "bio": 81,
+        "pe": 94
+      }
+    },
+    {
+      "id": "011b8966-31cd-4e4c-8a2f-ae7825892e22",
+      "name": "Сақтаған Мирас Ғазизұлы",
+      "group": "АИУ-22",
+      "scores": {
+        "kaz": 93,
+        "kazlit": 90,
+        "rus": 93,
+        "foreign": 89,
+        "kzhist": 92,
+        "worldhist": 91,
+        "math": 85,
+        "info": 90,
+        "phys": 94,
+        "chem": 89,
+        "bio": 78,
+        "pe": 94
+      }
+    },
+    {
+      "id": "4fb31b7b-3131-42c5-96e5-983682d793a9",
+      "name": "Сарсекен Абу - Али Рахатұлы",
+      "group": "АИУ-22",
+      "scores": {
+        "kaz": 66,
+        "kazlit": 78,
+        "rus": 74,
+        "foreign": 77,
+        "kzhist": 67,
+        "worldhist": 76,
+        "math": 67,
+        "info": 73,
+        "phys": 75,
+        "chem": 72,
+        "bio": 70,
+        "pe": 93
+      }
+    },
+    {
+      "id": "d79da9c7-1d66-460f-92f8-3e7a393128ff",
+      "name": "Сарсенбай Нурсат Танатарұлы",
+      "group": "АИУ-22",
+      "scores": {
+        "kaz": 73,
+        "kazlit": 79,
+        "rus": 77,
+        "foreign": 78,
+        "kzhist": 83,
+        "worldhist": 80,
+        "math": 73,
+        "info": 88,
+        "phys": 83,
+        "chem": 86,
+        "bio": 80,
+        "pe": 93
+      }
+    },
+    {
+      "id": "18991352-4ac3-4b16-bf21-aebf7c313965",
+      "name": "Серікбай Санжар Сабыржанұлы",
+      "group": "АИУ-22",
+      "scores": {
+        "kaz": 75,
+        "kazlit": 78,
+        "rus": 62,
+        "foreign": 73,
+        "kzhist": 72,
+        "worldhist": 77,
+        "math": 65,
+        "info": 76,
+        "phys": 79,
+        "chem": 74,
+        "bio": 70,
+        "pe": 84
+      }
+    },
+    {
+      "id": "e5914dad-1025-4fa9-9548-9a67e2afbbe4",
+      "name": "Сулейман Руслан Серикұлы",
+      "group": "АИУ-22",
+      "scores": {
+        "kaz": 79,
+        "kazlit": 78,
+        "rus": 73,
+        "foreign": 75,
+        "kzhist": 78,
+        "worldhist": 79,
+        "math": 71,
+        "info": 88,
+        "phys": 81,
+        "chem": 73,
+        "bio": 75,
+        "pe": 93
+      }
+    },
+    {
+      "id": "772d5660-0aa7-4203-a40a-256e862ddcb9",
+      "name": "Толеуғали Дәурен Ерланұлы",
+      "group": "АИУ-22",
+      "scores": {
+        "kaz": 79,
+        "kazlit": 77,
+        "rus": 73,
+        "foreign": 83,
+        "kzhist": 78,
+        "worldhist": 79,
+        "math": 72,
+        "info": 76,
+        "phys": 81,
+        "chem": 73,
+        "bio": 75,
+        "pe": 92
+      }
+    },
+    {
+      "id": "c8b1564b-3efc-4d6d-a2d0-1a487f74f6d9",
+      "name": "Түркменбай Исламбек Мейрманұлы",
+      "group": "АИУ-22",
+      "scores": {
+        "kaz": 66,
+        "kazlit": 55,
+        "rus": 66,
+        "foreign": 71,
+        "kzhist": 66,
+        "worldhist": 67,
+        "math": 63,
+        "info": 66,
+        "phys": 66,
+        "chem": 71,
+        "bio": 63,
+        "pe": 82
+      }
+    },
+    {
+      "id": "6ef18c51-349c-4787-a307-9aacfa8042d3",
+      "name": "Ходжаназар Ұлан Мендешұлы",
+      "group": "АИУ-22",
+      "scores": {
+        "kaz": 76,
+        "kazlit": 88,
+        "rus": 73,
+        "foreign": 85,
+        "kzhist": 78,
+        "worldhist": 81,
+        "math": 72,
+        "info": 85,
+        "phys": 82,
+        "chem": 74,
+        "bio": 79,
+        "pe": 95
+      }
+    },
+    {
+      "id": "8544bf99-c195-4487-b36e-3f187e60d3a2",
+      "name": "Хожамурат Мирас Аманжолұлы",
+      "group": "АИУ-22",
+      "scores": {
+        "kaz": 66,
+        "kazlit": 83,
+        "rus": 90,
+        "foreign": 76,
+        "kzhist": 74,
+        "worldhist": 73,
+        "math": 79,
+        "info": 90,
+        "phys": 75,
+        "chem": 72,
+        "bio": 70,
+        "pe": 90
+      }
+    },
+    {
+      "id": "e6764255-290b-443a-afa3-05751f702c7f",
+      "name": "Шадман Нұрдәулет Наурызбайұлы",
+      "group": "АИУ-22",
+      "scores": {
+        "kaz": 71,
+        "kazlit": 65,
+        "rus": 66,
+        "foreign": 73,
+        "kzhist": 65,
+        "worldhist": 68,
+        "math": 58,
+        "info": 64,
+        "phys": 77,
+        "chem": 71,
+        "bio": 67,
+        "pe": 69
+      }
+    },
+    {
+      "id": "7c0e9593-9553-426a-82d2-039d976d516f",
+      "name": "Сытдых Ерасыл",
+      "group": "АИУ-22",
+      "scores": {
+        "kaz": 82,
+        "kazlit": 87,
+        "rus": 78,
+        "foreign": 80,
+        "kzhist": 83,
+        "worldhist": 90,
+        "math": 76,
+        "info": 78,
+        "phys": 84,
+        "chem": 72,
+        "bio": 87,
+        "pe": 87
+      }
+    },
+    {
+      "id": "cfd8f7b0-e420-478d-885a-016515cc5680",
+      "name": "Абдразах Жасулан Қобланұлы",
+      "group": "ИС-22",
+      "scores": {
+        "foreign": 90,
+        "math": 75,
+        "kzhist": 80,
+        "info": 90,
+        "pe": 79,
+        "worldhist": 85,
+        "chem": 81,
+        "bio": 84
+      }
+    },
+    {
+      "id": "74f7b320-f614-48a1-aed6-0f155cbe00a8",
+      "name": "Алуадин Азамат Сакенұлы",
+      "group": "ИС-22",
+      "scores": {
+        "foreign": 78,
+        "math": 72,
+        "kzhist": 73,
+        "info": 80,
+        "pe": 88,
+        "worldhist": 77,
+        "chem": 75,
+        "bio": 75
+      }
+    },
+    {
+      "id": "3dd6054f-7c56-49e7-a99a-0a71d34020e3",
+      "name": "Байтлеуов Азамат Асқарұлы",
+      "group": "ИС-22",
+      "scores": {
+        "foreign": 81,
+        "math": 83,
+        "kzhist": 77,
+        "info": 95,
+        "pe": 86,
+        "worldhist": 87,
+        "chem": 77,
+        "bio": 71
+      }
+    },
+    {
+      "id": "ec8d6660-313e-40cd-91f4-191668d37cbc",
+      "name": "Бахитжан Даниял Абайұлы",
+      "group": "ИС-22",
+      "scores": {
+        "foreign": 84,
+        "math": 73,
+        "kzhist": 68,
+        "info": 70,
+        "pe": 76,
+        "worldhist": 68,
+        "chem": 74,
+        "bio": 75
+      }
+    },
+    {
+      "id": "b5ac01e9-5cd1-4c4a-9889-a9c661e3407c",
+      "name": "Едиге Нұрсұлтан Серикұлы",
+      "group": "ИС-22",
+      "scores": {
+        "foreign": 75,
+        "math": 71,
+        "kzhist": 55,
+        "info": 86,
+        "pe": 91,
+        "worldhist": 71,
+        "chem": 75,
+        "bio": 58
+      }
+    },
+    {
+      "id": "89aa3b31-8d61-48c2-88ff-9529ee50a712",
+      "name": "Бергенов Жұлдызбек Күзетбайұлы",
+      "group": "ИС-22",
+      "scores": {
+        "foreign": 92,
+        "math": 74,
+        "kzhist": 65,
+        "info": 80,
+        "pe": 81,
+        "worldhist": 81,
+        "chem": 75,
+        "bio": 78
+      }
+    },
+    {
+      "id": "2c2bb2dc-667f-4478-81e5-d292b1c24e6f",
+      "name": "Булучбай Жаксыбай Саламатұлы",
+      "group": "ИС-22",
+      "scores": {
+        "foreign": 77,
+        "math": 71,
+        "kzhist": 75,
+        "info": 82,
+        "pe": 85,
+        "worldhist": 82,
+        "chem": 76,
+        "bio": 75
+      }
+    },
+    {
+      "id": "5e719659-3180-4826-8429-417c76b441cd",
+      "name": "Джаксыбекұлы Асылбек",
+      "group": "ИС-22",
+      "scores": {
+        "foreign": 88,
+        "math": 75,
+        "kzhist": 70,
+        "info": 91,
+        "pe": 90,
+        "worldhist": 85,
+        "chem": 79,
+        "bio": 90
+      }
+    },
+    {
+      "id": "0b5dea2e-9a76-4a29-88e4-cb9446526178",
+      "name": "Жаменов Нұрдәулет Қайратұлы",
+      "group": "ИС-22",
+      "scores": {
+        "foreign": 90,
+        "math": 76,
+        "kzhist": 75,
+        "info": 100,
+        "pe": 90,
+        "worldhist": 90,
+        "chem": 90,
+        "bio": 90
+      }
+    },
+    {
+      "id": "6fc51172-9bd2-42b0-948b-13b0e51e51bb",
+      "name": "Изден Мейіржан Дюсенбайұлы",
+      "group": "ИС-22",
+      "scores": {
+        "foreign": 92,
+        "math": 92,
+        "kzhist": 74,
+        "info": 93,
+        "pe": 83,
+        "worldhist": 89,
+        "chem": 83,
+        "bio": 90
+      }
+    },
+    {
+      "id": "df35ce62-346e-446e-8e66-769edd2278da",
+      "name": "Ислам Ернар Орынбасарұлы",
+      "group": "ИС-22",
+      "scores": {
+        "foreign": 84,
+        "math": 72,
+        "kzhist": 65,
+        "info": 75,
+        "pe": 76,
+        "worldhist": 71,
+        "chem": 73,
+        "bio": 75
+      }
+    },
+    {
+      "id": "bcf5dc07-98d2-4864-8b56-62db35102d70",
+      "name": "Күншығар Батырхан Ерболұлы",
+      "group": "ИС-22",
+      "scores": {
+        "foreign": 85,
+        "math": 77,
+        "kzhist": 74,
+        "info": 88,
+        "pe": 88,
+        "worldhist": 83,
+        "chem": 81,
+        "bio": 75
+      }
+    },
+    {
+      "id": "e8a34894-58db-44f2-b086-88f15872a4db",
+      "name": "Қанатбайұлы Ернұр",
+      "group": "ИС-22",
+      "scores": {
+        "foreign": 91,
+        "math": 94,
+        "kzhist": 79,
+        "info": 90,
+        "pe": 91,
+        "worldhist": 92,
+        "chem": 89,
+        "bio": 76
+      }
+    },
+    {
+      "id": "526001f6-a0e4-4681-bb0e-0f0ef87ee2a8",
+      "name": "Мақсатов Бекарыс Алибекович",
+      "group": "ИС-22",
+      "scores": {
+        "foreign": 84,
+        "math": 85,
+        "kzhist": 76,
+        "info": 90,
+        "pe": 83,
+        "worldhist": 90,
+        "chem": 83,
+        "bio": 79
+      }
+    },
+    {
+      "id": "ab9ab2c6-2845-48e7-bf11-41f8755f0fd5",
+      "name": "Мамбеткаримов Ерполат Абатбайулы",
+      "group": "ИС-22",
+      "scores": {
+        "foreign": 83,
+        "math": 75,
+        "kzhist": 67,
+        "info": 87,
+        "pe": 81,
+        "worldhist": 80,
+        "chem": 78,
+        "bio": 82
+      }
+    },
+    {
+      "id": "fcf6e4f0-5ce5-4c48-ac32-b5ae7480c913",
+      "name": "Махавад Бағдат Рамазанұлы",
+      "group": "ИС-22",
+      "scores": {
+        "foreign": 82,
+        "math": 75,
+        "kzhist": 71,
+        "info": 80,
+        "pe": 79,
+        "worldhist": 79,
+        "chem": 80,
+        "bio": 78
+      }
+    },
+    {
+      "id": "1b4865dd-755c-42c9-9935-0c1fbd5b407f",
+      "name": "Мұңалқожа Бекзат Ерқожаұлы",
+      "group": "ИС-22",
+      "scores": {
+        "foreign": 89,
+        "math": 75,
+        "kzhist": 74,
+        "info": 97,
+        "pe": 89,
+        "worldhist": 88,
+        "chem": 83,
+        "bio": 78
+      }
+    },
+    {
+      "id": "17157fa0-e67a-41db-961a-9c47289a73c2",
+      "name": "Олжанов Нұржан Есенгелдиевич",
+      "group": "ИС-22",
+      "scores": {
+        "foreign": 81,
+        "math": 72,
+        "kzhist": 85,
+        "info": 90,
+        "pe": 86,
+        "worldhist": 87,
+        "chem": 75,
+        "bio": 75
+      }
+    },
+    {
+      "id": "fee64f7d-8770-4f4d-971d-e18d3618e852",
+      "name": "Оразай Алихан Бауыржанұлы",
+      "group": "ИС-22",
+      "scores": {
+        "foreign": 91,
+        "math": 78,
+        "kzhist": 83,
+        "info": 93,
+        "pe": 90,
+        "worldhist": 90,
+        "chem": 84,
+        "bio": 90
+      }
+    },
+    {
+      "id": "4e9a2114-ca59-49a6-a5b6-7e1943e89766",
+      "name": "Орынбасар Санжар Нұрланұлы",
+      "group": "ИС-22",
+      "scores": {
+        "foreign": 75,
+        "math": 73,
+        "kzhist": 75,
+        "info": 85,
+        "pe": 80,
+        "worldhist": 75,
+        "chem": 75,
+        "bio": 75
+      }
+    },
+    {
+      "id": "6b9bdd1f-7ecf-4c44-9cb3-8e4e34f8f4c6",
+      "name": "Рысбай Ринат Рысбайұлы",
+      "group": "ИС-22",
+      "scores": {
+        "foreign": 79,
+        "math": 74,
+        "kzhist": 75,
+        "info": 80,
+        "pe": 94,
+        "worldhist": 75,
+        "chem": 76,
+        "bio": 75
+      }
+    },
+    {
+      "id": "cee28afc-58a5-4810-9530-c6c67616b4a4",
+      "name": "Серикбаев Азамат Онгарбаевич",
+      "group": "ИС-22",
+      "scores": {
+        "foreign": 89,
+        "math": 92,
+        "kzhist": 87,
+        "info": 100,
+        "pe": 93,
+        "worldhist": 93,
+        "chem": 93,
+        "bio": 85
+      }
+    },
+    {
+      "id": "40353dca-5592-4ea1-942d-45fde018c26b",
+      "name": "Тіркешов Жансерік Жанибекұлы",
+      "group": "ИС-22",
+      "scores": {
+        "foreign": 81,
+        "math": 65,
+        "kzhist": 60,
+        "info": 90,
+        "pe": 79,
+        "worldhist": 66,
+        "chem": 72,
+        "bio": 75
+      }
+    },
+    {
+      "id": "f332ff2b-21d6-4040-80a1-7c2ce2c283c4",
+      "name": "Туксанбаев Равиль Тулегенұлы",
+      "group": "ИС-22",
+      "scores": {
+        "foreign": 78,
+        "math": 72,
+        "kzhist": 61,
+        "info": 85,
+        "pe": 81,
+        "worldhist": 72,
+        "chem": 77,
+        "bio": 78
+      }
+    },
+    {
+      "id": "27a94ee6-0384-4b66-a934-2e8cf8cbd4f2",
+      "name": "Алинур Нұртілек Қасымұлы",
+      "group": "ЭЭ-22",
+      "scores": {
+        "kaz": 79,
+        "kazlit": 86,
+        "rus": 75,
+        "foreign": 89,
+        "kzhist": 80,
+        "worldhist": 82,
+        "math": 87,
+        "info": 79,
+        "phys": 76,
+        "chem": 81,
+        "bio": 87,
+        "pe": 94
+      }
+    },
+    {
+      "id": "49b5ad0f-c5db-44b3-8c51-487e03bff7e6",
+      "name": "Аманов Ақылбек Аманович",
+      "group": "ЭЭ-22",
+      "scores": {
+        "kaz": 75,
+        "kazlit": 92,
+        "rus": 74,
+        "foreign": 89,
+        "kzhist": 77,
+        "worldhist": 85,
+        "math": 73,
+        "info": 76,
+        "phys": 82,
+        "chem": 78,
+        "bio": 84,
+        "pe": 94
+      }
+    },
+    {
+      "id": "c3c58e45-4035-4fe5-aa2e-dd7d26ac8d3c",
+      "name": "Байтеміров Әлентөре Жалғасұлы",
+      "group": "ЭЭ-22",
+      "scores": {
+        "kaz": 68,
+        "kazlit": 66,
+        "rus": 68,
+        "foreign": 76,
+        "kzhist": 66,
+        "worldhist": 79,
+        "math": 57,
+        "info": 72,
+        "phys": 67,
+        "chem": 65,
+        "bio": 63,
+        "pe": 82
+      }
+    },
+    {
+      "id": "1b2fcae0-ffe1-4cb6-832a-a1ef93135605",
+      "name": "Далабай Алихан Габидуллаұлы",
+      "group": "ЭЭ-22",
+      "scores": {
+        "kaz": 75,
+        "kazlit": 82,
+        "rus": 68,
+        "foreign": 77,
+        "kzhist": 72,
+        "worldhist": 82,
+        "math": 63,
+        "info": 71,
+        "phys": 74,
+        "chem": 57,
+        "bio": 75,
+        "pe": 84
+      }
+    },
+    {
+      "id": "6d70ebc0-975a-4925-9f7a-24e66189b312",
+      "name": "Еділбай Нұрсұлтан Ескелдіұлы",
+      "group": "ЭЭ-22",
+      "scores": {
+        "kaz": 67,
+        "kazlit": 76,
+        "rus": 66,
+        "foreign": 81,
+        "kzhist": 75,
+        "worldhist": 78,
+        "math": 63,
+        "info": 63,
+        "phys": 67,
+        "chem": 63,
+        "bio": 70,
+        "pe": 74
+      }
+    },
+    {
+      "id": "0c334791-f13b-4072-8fb9-c3e3a42f9d45",
+      "name": "Жақсылық Асылбек Маратұлы",
+      "group": "ЭЭ-22",
+      "scores": {
+        "kaz": 76,
+        "kazlit": 91,
+        "rus": 77,
+        "foreign": 80,
+        "kzhist": 71,
+        "worldhist": 81,
+        "math": 78,
+        "info": 83,
+        "phys": 75,
+        "chem": 78,
+        "bio": 73,
+        "pe": 93
+      }
+    },
+    {
+      "id": "a16b5b25-8661-4966-b06a-a21777f773a6",
+      "name": "Жаулыбай Еркебұлан Жазылбекұлы",
+      "group": "ЭЭ-22",
+      "scores": {
+        "kaz": 76,
+        "kazlit": 82,
+        "rus": 75,
+        "foreign": 81,
+        "kzhist": 77,
+        "worldhist": 90,
+        "math": 79,
+        "info": 90,
+        "phys": 85,
+        "chem": 86,
+        "bio": 77,
+        "pe": 91
+      }
+    },
+    {
+      "id": "194cfbb8-3aaf-4bad-b5d2-d72fd6fd3563",
+      "name": "Жүсіп Еділ Жазылбекұлы",
+      "group": "ЭЭ-22",
+      "scores": {
+        "kaz": 65,
+        "kazlit": 79,
+        "rus": 68,
+        "foreign": 77,
+        "kzhist": 61,
+        "worldhist": 81,
+        "math": 78,
+        "info": 70,
+        "phys": 65,
+        "chem": 70,
+        "bio": 71,
+        "pe": 85
+      }
+    },
+    {
+      "id": "32894a6c-8e36-4ed9-b355-eb2389208428",
+      "name": "Қанатұлы Елжан",
+      "group": "ЭЭ-22",
+      "scores": {
+        "kaz": 78,
+        "kazlit": 85,
+        "rus": 76,
+        "foreign": 92,
+        "kzhist": 88,
+        "worldhist": 88,
+        "math": 84,
+        "info": 64,
+        "phys": 78,
+        "chem": 82,
+        "bio": 80,
+        "pe": 95
+      }
+    },
+    {
+      "id": "fcd7f8c2-33ac-49aa-9373-3e5c372ef0e1",
+      "name": "Қуанышбек Рамазан Кайыпбайулы",
+      "group": "ЭЭ-22",
+      "scores": {
+        "kaz": 76,
+        "kazlit": 89,
+        "rus": 74,
+        "foreign": 91,
+        "kzhist": 82,
+        "worldhist": 81,
+        "math": 76,
+        "info": 80,
+        "phys": 78,
+        "chem": 82,
+        "bio": 76,
+        "pe": 95
+      }
+    },
+    {
+      "id": "88ee3818-aed2-4150-ace9-ff2627c413f3",
+      "name": "Манғистау Азат Досатұлы",
+      "group": "ЭЭ-22",
+      "scores": {
+        "kaz": 82,
+        "kazlit": 94,
+        "rus": 91,
+        "foreign": 89,
+        "kzhist": 73,
+        "worldhist": 88,
+        "math": 75,
+        "info": 92,
+        "phys": 85,
+        "chem": 93,
+        "bio": 82,
+        "pe": 94
+      }
+    },
+    {
+      "id": "160cf198-32a6-4135-8865-56cdd12a6dc6",
+      "name": "Садыков Алихан Рамазанович",
+      "group": "ЭЭ-22",
+      "scores": {
+        "kaz": 65,
+        "kazlit": 80,
+        "rus": 75,
+        "foreign": 92,
+        "kzhist": 78,
+        "worldhist": 86,
+        "math": 75,
+        "info": 91,
+        "phys": 65,
+        "chem": 70,
+        "bio": 79,
+        "pe": 80
+      }
+    },
+    {
+      "id": "74eaf6bf-2d66-4862-b0c7-ac48a3cf78f7",
+      "name": "Сахи Берік Файзуллаұлы",
+      "group": "ЭЭ-22",
+      "scores": {
+        "kaz": 79,
+        "kazlit": 90,
+        "rus": 75,
+        "foreign": 92,
+        "kzhist": 81,
+        "worldhist": 84,
+        "math": 76,
+        "info": 92,
+        "phys": 77,
+        "chem": 83,
+        "bio": 79,
+        "pe": 84
+      }
+    },
+    {
+      "id": "03631deb-10aa-41b6-be5c-d70f1cbd19e5",
+      "name": "Сериккали Мадияр Саулетұлы",
+      "group": "ЭЭ-22",
+      "scores": {
+        "kaz": 65,
+        "kazlit": 70,
+        "rus": 61,
+        "foreign": 75,
+        "kzhist": 60,
+        "worldhist": 80,
+        "math": 76,
+        "info": 72,
+        "phys": 71,
+        "chem": 61,
+        "bio": 68,
+        "pe": 60
+      }
+    },
+    {
+      "id": "1b8378b9-2524-4835-9df5-06dd1dbb6a08",
+      "name": "Табынбай Самат Максатұлы",
+      "group": "ЭЭ-22",
+      "scores": {
+        "kaz": 82,
+        "kazlit": 86,
+        "rus": 74,
+        "foreign": 78,
+        "kzhist": 82,
+        "worldhist": 94,
+        "math": 80,
+        "info": 86,
+        "phys": 87,
+        "chem": 95,
+        "bio": 78,
+        "pe": 93
+      }
+    },
+    {
+      "id": "46b33772-bd7e-43bc-af5d-46a854a68dd7",
+      "name": "Тазабаев Ербол Амангелдиулы",
+      "group": "ЭЭ-22",
+      "scores": {
+        "kaz": 87,
+        "kazlit": 93,
+        "rus": 90,
+        "foreign": 86,
+        "kzhist": 77,
+        "worldhist": 83,
+        "math": 82,
+        "info": 77,
+        "phys": 80,
+        "chem": 86,
+        "bio": 79,
+        "pe": 91
+      }
+    },
+    {
+      "id": "a1427201-38c5-4b17-8922-4689445d2960",
+      "name": "Теңелген Нұрдаулет Әлібекұлы",
+      "group": "ЭЭ-22",
+      "scores": {
+        "kaz": 80,
+        "kazlit": 84,
+        "rus": 84,
+        "foreign": 79,
+        "kzhist": 79,
+        "worldhist": 77,
+        "math": 75,
+        "info": 83,
+        "phys": 76,
+        "chem": 77,
+        "bio": 78,
+        "pe": 94
+      }
+    },
+    {
+      "id": "194c9535-8af3-41df-9019-62db55ad5b42",
+      "name": "Төремұрат Нұрсейіт Серікұлы",
+      "group": "ЭЭ-22",
+      "scores": {
+        "kaz": 76,
+        "kazlit": 82,
+        "rus": 82,
+        "foreign": 78,
+        "kzhist": 73,
+        "worldhist": 80,
+        "math": 72,
+        "info": 81,
+        "phys": 72,
+        "chem": 72,
+        "bio": 75,
+        "pe": 94
+      }
+    },
+    {
+      "id": "13286c2c-8456-4f4f-99f0-013e83d2566f",
+      "name": "Уланбай Азамат Есенгалиұлы",
+      "group": "ЭЭ-22",
+      "scores": {
+        "kaz": 86,
+        "kazlit": 88,
+        "rus": 62,
+        "foreign": 75,
+        "kzhist": 63,
+        "worldhist": 82,
+        "math": 73,
+        "info": 80,
+        "phys": 76,
+        "chem": 81,
+        "bio": 64,
+        "pe": 94
+      }
+    },
+    {
+      "id": "00971b1a-f450-4e9e-b9c9-2f534c765866",
+      "name": "Ходжабай Дархан Мурадович",
+      "group": "ЭЭ-22",
+      "scores": {
+        "kaz": 77,
+        "kazlit": 85,
+        "rus": 81,
+        "foreign": 77,
+        "kzhist": 81,
+        "worldhist": 80,
+        "math": 73,
+        "info": 86,
+        "phys": 81,
+        "chem": 71,
+        "bio": 81,
+        "pe": 91
+      }
+    },
+    {
+      "id": "2637e223-96e8-4b31-8156-219ba8a878f8",
+      "name": "Чалабаев Қайрат Асқарбайұлы",
+      "group": "ЭЭ-22",
+      "scores": {
+        "kaz": 68,
+        "kazlit": 82,
+        "rus": 69,
+        "foreign": 76,
+        "kzhist": 70,
+        "worldhist": 79,
+        "math": 71,
+        "info": 75,
+        "phys": 73,
+        "chem": 64,
+        "bio": 73,
+        "pe": 72
+      }
+    },
+    {
+      "id": "f52e6fe7-f340-479a-aac0-9a002b4ffbdd",
+      "name": "Баймұратов Мендигали Бауыржан улы",
+      "group": "ЭЭ-22",
+      "scores": {
+        "kaz": 79,
+        "kazlit": 79,
+        "rus": 75,
+        "foreign": 80,
+        "kzhist": 67,
+        "worldhist": 76,
+        "math": 66,
+        "info": 89,
+        "phys": 81,
+        "chem": 77,
+        "bio": 75,
+        "pe": 90
+      }
+    },
+    {
+      "id": "fed70cbd-795f-436e-b8db-9873b79c8a9f",
+      "name": "Абдыраимов Нурлан Курбанович",
+      "group": "ХТ-22",
+      "scores": {
+        "kaz": 71,
+        "kazlit": 78,
+        "rus": 63,
+        "foreign": 68,
+        "kzhist": 66,
+        "worldhist": 81,
+        "math": 66,
+        "info": 77,
+        "phys": 74,
+        "chem": 74,
+        "bio": 75,
+        "pe": 84
+      }
+    },
+    {
+      "id": "0bcb32cb-f9df-4691-9899-2283c4ba167e",
+      "name": "Амангелди Ақниет Муратулы",
+      "group": "ХТ-22",
+      "scores": {
+        "kaz": 63,
+        "kazlit": 76,
+        "rus": 63,
+        "foreign": 65,
+        "kzhist": 64,
+        "worldhist": 80,
+        "math": 64,
+        "info": 75,
+        "phys": 66,
+        "chem": 72,
+        "bio": 81,
+        "pe": 72
+      }
+    },
+    {
+      "id": "305f7770-9125-4f06-a618-0c03f45dd0df",
+      "name": "Амангелді Бекарыс Абзалұлы",
+      "group": "ХТ-22",
+      "scores": {
+        "kaz": 90,
+        "kazlit": 86,
+        "rus": 78,
+        "foreign": 91,
+        "kzhist": 82,
+        "worldhist": 90,
+        "math": 74,
+        "info": 77,
+        "phys": 80,
+        "chem": 81,
+        "bio": 73,
+        "pe": 80
+      }
+    },
+    {
+      "id": "662fa61e-dfc8-40d2-a0e0-9f00e0d12e56",
+      "name": "Бигжан Бексұлтан Бақытжанұлы",
+      "group": "ХТ-22",
+      "scores": {
+        "kaz": 71,
+        "kazlit": 78,
+        "rus": 74,
+        "foreign": 88,
+        "kzhist": 74,
+        "worldhist": 81,
+        "math": 73,
+        "info": 79,
+        "phys": 76,
+        "chem": 76,
+        "bio": 76,
+        "pe": 82
+      }
+    },
+    {
+      "id": "3c236edf-48e8-4506-82f2-fadee13f3f0d",
+      "name": "Бисен Шыңғысхан Абайұлы",
+      "group": "ХТ-22",
+      "scores": {
+        "kaz": 85,
+        "kazlit": 86,
+        "rus": 74,
+        "foreign": 72,
+        "kzhist": 75,
+        "worldhist": 80,
+        "math": 74,
+        "info": 81,
+        "phys": 78,
+        "chem": 75,
+        "bio": 78,
+        "pe": 86
+      }
+    },
+    {
+      "id": "a2a289a8-22e7-4a59-bc0a-e8719b4ecf5b",
+      "name": "Бурханов Нуржан Лукпанович",
+      "group": "ХТ-22",
+      "scores": {
+        "kaz": 90,
+        "kazlit": 86,
+        "rus": 83,
+        "foreign": 81,
+        "kzhist": 84,
+        "worldhist": 81,
+        "math": 74,
+        "info": 81,
+        "phys": 76,
+        "chem": 76,
+        "bio": 77,
+        "pe": 82
+      }
+    },
+    {
+      "id": "b3a2c953-80e3-43df-819a-4db8e8a8468d",
+      "name": "Демесін Ақұлпа Қанатқызы",
+      "group": "ХТ-22",
+      "scores": {
+        "kaz": 86,
+        "kazlit": 89,
+        "rus": 90,
+        "foreign": 79,
+        "kzhist": 92,
+        "worldhist": 79,
+        "math": 73,
+        "info": 79,
+        "phys": 82,
+        "chem": 76,
+        "bio": 77,
+        "pe": 84
+      }
+    },
+    {
+      "id": "025b8d0b-9106-406b-88e3-550ee8c524c7",
+      "name": "Джакауова Адина Нуртаевна",
+      "group": "ХТ-22",
+      "scores": {
+        "kaz": 76,
+        "kazlit": 86,
+        "rus": 90,
+        "foreign": 87,
+        "kzhist": 78,
+        "worldhist": 87,
+        "math": 92,
+        "info": 88,
+        "phys": 93,
+        "chem": 91,
+        "bio": 75,
+        "pe": 80
+      }
+    },
+    {
+      "id": "6bae3c07-68b0-4680-8f2c-eb928316408c",
+      "name": "Досан Рабиға Жанибекқызы",
+      "group": "ХТ-22",
+      "scores": {
+        "kaz": 73,
+        "kazlit": 90,
+        "rus": 90,
+        "foreign": 71,
+        "kzhist": 76,
+        "worldhist": 89,
+        "math": 78,
+        "info": 82,
+        "phys": 84,
+        "chem": 81,
+        "bio": 83,
+        "pe": 76
+      }
+    },
+    {
+      "id": "b1d2047d-4481-4378-8ca7-876e654aa0fe",
+      "name": "Есмуханов Айболат Жомартұлы",
+      "group": "ХТ-22",
+      "scores": {
+        "kaz": 69,
+        "kazlit": 84,
+        "rus": 75,
+        "foreign": 75,
+        "kzhist": 82,
+        "worldhist": 77,
+        "math": 67,
+        "info": 76,
+        "phys": 80,
+        "chem": 75,
+        "bio": 77,
+        "pe": 82
+      }
+    },
+    {
+      "id": "2767dbc6-c0e9-46a8-aee2-38c730972bf5",
+      "name": "Жолдыбай Әлишер Қонақбайұлы",
+      "group": "ХТ-22",
+      "scores": {
+        "kaz": 72,
+        "kazlit": 91,
+        "rus": 75,
+        "foreign": 76,
+        "kzhist": 81,
+        "worldhist": 82,
+        "math": 74,
+        "info": 81,
+        "phys": 82,
+        "chem": 80,
+        "bio": 79,
+        "pe": 83
+      }
+    },
+    {
+      "id": "4d58b08a-2de7-4954-82c1-d4bf4a50fae8",
+      "name": "Жұмабек Әмірхан Ақмұрзаұлы",
+      "group": "ХТ-22",
+      "scores": {
+        "kaz": 75,
+        "kazlit": 78,
+        "rus": 61,
+        "foreign": 73,
+        "kzhist": 90,
+        "worldhist": 81,
+        "math": 50,
+        "info": 77,
+        "phys": 50,
+        "chem": 74,
+        "bio": 77,
+        "pe": 60
+      }
+    },
+    {
+      "id": "a4f18df8-9061-47db-80e2-169191d65ade",
+      "name": "Кошмак Нұржігіт Өмірбекұлы",
+      "group": "ХТ-22",
+      "scores": {
+        "kaz": 70,
+        "kazlit": 77,
+        "rus": 75,
+        "foreign": 73,
+        "kzhist": 71,
+        "worldhist": 80,
+        "math": 73,
+        "info": 74,
+        "phys": 76,
+        "chem": 74,
+        "bio": 77,
+        "pe": 82
+      }
+    },
+    {
+      "id": "d238a421-5cda-4ebe-90c7-4f24a89fe03e",
+      "name": "Қуангали Асанәлі Қудайбергенұлы",
+      "group": "ХТ-22",
+      "scores": {
+        "kaz": 82,
+        "kazlit": 81,
+        "rus": 74,
+        "foreign": 72,
+        "kzhist": 71,
+        "worldhist": 78,
+        "math": 72,
+        "info": 78,
+        "phys": 76,
+        "chem": 74,
+        "bio": 81,
+        "pe": 77
+      }
+    },
+    {
+      "id": "b61316c5-8d9d-4255-bc2b-2e8614b5de43",
+      "name": "Мурадали Бибатпа Кошкинбайқызы",
+      "group": "ХТ-22",
+      "scores": {
+        "kaz": 70,
+        "kazlit": 86,
+        "rus": 76,
+        "foreign": 75,
+        "kzhist": 73,
+        "worldhist": 86,
+        "math": 78,
+        "info": 73,
+        "phys": 75,
+        "chem": 76,
+        "bio": 76,
+        "pe": 79
+      }
+    },
+    {
+      "id": "2da112ce-d7bb-4c8c-b954-1345b8a91722",
+      "name": "Мұстафа Расина Рауанқызы",
+      "group": "ХТ-22",
+      "scores": {
+        "kaz": 92,
+        "kazlit": 93,
+        "rus": 85,
+        "foreign": 91,
+        "kzhist": 92,
+        "worldhist": 95,
+        "math": 93,
+        "info": 91,
+        "phys": 94,
+        "chem": 92,
+        "bio": 91,
+        "pe": 92
+      }
+    },
+    {
+      "id": "a7a4338f-82a8-49a1-b19f-9287c34a0db1",
+      "name": "Мырзағұл Қанат Жайсанұлы",
+      "group": "ХТ-22",
+      "scores": {
+        "kaz": 74,
+        "kazlit": 79,
+        "rus": 81,
+        "foreign": 73,
+        "kzhist": 75,
+        "worldhist": 79,
+        "math": 73,
+        "info": 78,
+        "phys": 74,
+        "chem": 75,
+        "bio": 75,
+        "pe": 77
+      }
+    },
+    {
+      "id": "83c219e8-a7de-4e6f-9a5a-a89e27665276",
+      "name": "Нурсултан Жалғас Нурсултанұлы",
+      "group": "ХТ-22",
+      "scores": {
+        "kaz": 70,
+        "kazlit": 81,
+        "rus": 76,
+        "foreign": 76,
+        "kzhist": 71,
+        "worldhist": 80,
+        "math": 72,
+        "info": 78,
+        "phys": 77,
+        "chem": 75,
+        "bio": 75,
+        "pe": 83
+      }
+    },
+    {
+      "id": "6fce00f8-5d23-4bc6-b11a-2ac400d4497f",
+      "name": "Онайбаев Ақылбек Сарсенбаевич",
+      "group": "ХТ-22",
+      "scores": {
+        "kaz": 73,
+        "kazlit": 78,
+        "rus": 77,
+        "foreign": 74,
+        "kzhist": 72,
+        "worldhist": 80,
+        "math": 65,
+        "info": 78,
+        "phys": 77,
+        "chem": 75,
+        "bio": 76,
+        "pe": 84
+      }
+    },
+    {
+      "id": "d4520046-b019-485a-813e-3de87b820023",
+      "name": "Сабақбай Жанар Нұржанқызы",
+      "group": "ХТ-22",
+      "scores": {
+        "kaz": 86,
+        "kazlit": 94,
+        "rus": 89,
+        "foreign": 91,
+        "kzhist": 90,
+        "worldhist": 95,
+        "math": 82,
+        "info": 90,
+        "phys": 91,
+        "chem": 91,
+        "bio": 77,
+        "pe": 91
+      }
+    },
+    {
+      "id": "6fb50375-7c45-4edc-a5c7-024d80ce2d4c",
+      "name": "Фарабиұлы Айназар",
+      "group": "ХТ-22",
+      "scores": {
+        "kaz": 73,
+        "kazlit": 78,
+        "rus": 70,
+        "foreign": 75,
+        "kzhist": 63,
+        "worldhist": 78,
+        "math": 65,
+        "info": 76,
+        "phys": 65,
+        "chem": 74,
+        "bio": 76,
+        "pe": 72
+      }
+    },
+    {
+      "id": "577d3919-ed92-4ab8-9ea0-841966ce9d85",
+      "name": "Шоңай Ахат Құдабайұлы",
+      "group": "ХТ-22",
+      "scores": {
+        "kaz": 84,
+        "kazlit": 93,
+        "rus": 85,
+        "foreign": 91,
+        "kzhist": 81,
+        "worldhist": 91,
+        "math": 75,
+        "info": 87,
+        "phys": 87,
+        "chem": 90,
+        "bio": 76,
+        "pe": 87
+      }
+    },
+    {
+      "id": "cf69fabd-0a1d-4705-bd3d-ad700253f59a",
+      "name": "Аманқұл Мәди Берікжанұлы",
+      "group": "ВТИПО-22",
+      "scores": {
+        "kaz": 86,
+        "kazlit": 86,
+        "rus": 89,
+        "foreign": 88,
+        "kzhist": 79,
+        "worldhist": 80,
+        "math": 91,
+        "info": 81,
+        "phys": 79,
+        "chem": 80,
+        "bio": 93,
+        "pe": 90
+      }
+    },
+    {
+      "id": "5a0d7a8f-c3ad-4255-8d7d-b7cf73e702ac",
+      "name": "Асқаров Нұрсәт Серікбайұлы",
+      "group": "ВТИПО-22",
+      "scores": {
+        "kaz": 86,
+        "kazlit": 88,
+        "rus": 81,
+        "foreign": 91,
+        "kzhist": 79,
+        "worldhist": 77,
+        "math": 96,
+        "info": 88,
+        "phys": 84,
+        "chem": 95,
+        "bio": 82,
+        "pe": 90
+      }
+    },
+    {
+      "id": "a74a2bb1-6358-4143-b005-ff470278eb64",
+      "name": "Байболов Нурсултан Азатулы",
+      "group": "ВТИПО-22",
+      "scores": {
+        "kaz": 72,
+        "kazlit": 76,
+        "rus": 81,
+        "foreign": 81,
+        "kzhist": 70,
+        "worldhist": 60,
+        "math": 63,
+        "info": 77,
+        "phys": 71,
+        "chem": 70,
+        "bio": 76,
+        "pe": 90
+      }
+    },
+    {
+      "id": "c5caaa7e-5f06-42b3-b3ae-ba30bb19da9d",
+      "name": "Бақытқали Айдар Мұратұлы",
+      "group": "ВТИПО-22",
+      "scores": {
+        "kaz": 86,
+        "kazlit": 89,
+        "rus": 89,
+        "foreign": 91,
+        "kzhist": 87,
+        "worldhist": 91,
+        "math": 93,
+        "info": 90,
+        "phys": 80,
+        "chem": 81,
+        "bio": 75,
+        "pe": 90
+      }
+    },
+    {
+      "id": "1b458e72-188f-47f3-9ca8-6e7ad4bf2e89",
+      "name": "Джамбул Алдияр Галижанұлы",
+      "group": "ВТИПО-22",
+      "scores": {
+        "kaz": 83,
+        "kazlit": 87,
+        "rus": 92,
+        "foreign": 91,
+        "kzhist": 80,
+        "worldhist": 80,
+        "math": 89,
+        "info": 83,
+        "phys": 82,
+        "chem": 80,
+        "bio": 76,
+        "pe": 90
+      }
+    },
+    {
+      "id": "b50405c0-c47d-433e-9f2c-87ad80a13e4e",
+      "name": "Елеусинов Ермухан Елеусинович",
+      "group": "ВТИПО-22",
+      "scores": {
+        "kaz": 80,
+        "kazlit": 86,
+        "rus": 78,
+        "foreign": 89,
+        "kzhist": 75,
+        "worldhist": 75,
+        "math": 76,
+        "info": 88,
+        "phys": 74,
+        "chem": 79,
+        "bio": 76,
+        "pe": 80
+      }
+    },
+    {
+      "id": "4a0f97f5-49bc-4e79-aea8-d4097bbf26de",
+      "name": "Жарылғас Бауыржан Маратұлы",
+      "group": "ВТИПО-22",
+      "scores": {
+        "kaz": 83,
+        "kazlit": 84,
+        "rus": 89,
+        "foreign": 91,
+        "kzhist": 79,
+        "worldhist": 78,
+        "math": 87,
+        "info": 90,
+        "phys": 82,
+        "chem": 79,
+        "bio": 90,
+        "pe": 90
+      }
+    },
+    {
+      "id": "9474fe6c-5d11-44ad-9b80-5a10bd077988",
+      "name": "Жумағұл Жанарбек Женгисбекұлы",
+      "group": "ВТИПО-22",
+      "scores": {
+        "kaz": 77,
+        "kazlit": 82,
+        "rus": 75,
+        "foreign": 90,
+        "kzhist": 76,
+        "worldhist": 89,
+        "math": 78,
+        "info": 78,
+        "phys": 76,
+        "chem": 81,
+        "bio": 79,
+        "pe": 91
+      }
+    },
+    {
+      "id": "62ee6e14-ed02-46a0-95fb-f10128e84897",
+      "name": "Жүсіп Даниал Бекібайұлы",
+      "group": "ВТИПО-22",
+      "scores": {
+        "kaz": 82,
+        "kazlit": 82,
+        "rus": 82,
+        "foreign": 88,
+        "kzhist": 77,
+        "worldhist": 76,
+        "math": 83,
+        "info": 88,
+        "phys": 77,
+        "chem": 75,
+        "bio": 75,
+        "pe": 82
+      }
+    },
+    {
+      "id": "45c3b65c-436e-42f6-9ee6-0c4779092c49",
+      "name": "Жұмабай Нұрсұлтан Мұратұлы",
+      "group": "ВТИПО-22",
+      "scores": {
+        "kaz": 76,
+        "kazlit": 76,
+        "rus": 79,
+        "foreign": 85,
+        "kzhist": 75,
+        "worldhist": 75,
+        "math": 73,
+        "info": 74,
+        "phys": 74,
+        "chem": 75,
+        "bio": 76,
+        "pe": 74
+      }
+    },
+    {
+      "id": "2b3fd96b-fb9f-45a0-99d1-ab1a778b72a2",
+      "name": "Жұмысбеков Әбілмансұр Қуанбекұлы",
+      "group": "ВТИПО-22",
+      "scores": {
+        "kaz": 70,
+        "kazlit": 72,
+        "rus": 72,
+        "foreign": 82,
+        "kzhist": 69,
+        "worldhist": 62,
+        "math": 66,
+        "info": 71,
+        "phys": 69,
+        "chem": 64,
+        "bio": 73,
+        "pe": 69
+      }
+    },
+    {
+      "id": "a48a5ea5-e867-4940-8fc9-7a3f3b6ff9d0",
+      "name": "Исатай Еркебұлан Сиринұлы",
+      "group": "ВТИПО-22",
+      "scores": {
+        "kaz": 78,
+        "kazlit": 81,
+        "rus": 75,
+        "foreign": 80,
+        "kzhist": 76,
+        "worldhist": 75,
+        "math": 82,
+        "info": 77,
+        "phys": 75,
+        "chem": 75,
+        "bio": 79,
+        "pe": 80
+      }
+    },
+    {
+      "id": "f2eb000c-b998-474d-a96e-c4749267f043",
+      "name": "Итимаш Бек Жасұланұлы",
+      "group": "ВТИПО-22",
+      "scores": {
+        "kaz": 93,
+        "kazlit": 93,
+        "rus": 88,
+        "foreign": 90,
+        "kzhist": 90,
+        "worldhist": 90,
+        "math": 78,
+        "info": 84,
+        "phys": 86,
+        "chem": 72,
+        "bio": 92,
+        "pe": 87
+      }
+    },
+    {
+      "id": "30e7c384-1da4-41e8-a2c3-fd8b9fcebd11",
+      "name": "Кенжебай Ердос Қайратұлы",
+      "group": "ВТИПО-22",
+      "scores": {
+        "kaz": 90,
+        "kazlit": 91,
+        "rus": 75,
+        "foreign": 75,
+        "kzhist": 80,
+        "worldhist": 80,
+        "math": 81,
+        "info": 88,
+        "phys": 76,
+        "chem": 80,
+        "bio": 82,
+        "pe": 92
+      }
+    },
+    {
+      "id": "0de0c129-1213-4bb2-92ff-4ab4c31e039f",
+      "name": "Кутыбаев Кенжебек Мырзабаевич",
+      "group": "ВТИПО-22",
+      "scores": {
+        "kaz": 80,
+        "kazlit": 86,
+        "rus": 91,
+        "foreign": 77,
+        "kzhist": 77,
+        "worldhist": 78,
+        "math": 83,
+        "info": 76,
+        "phys": 78,
+        "chem": 79,
+        "bio": 79,
+        "pe": 75
+      }
+    },
+    {
+      "id": "e78b2c9f-fc4d-4566-8bf2-1c5899d02bd3",
+      "name": "Мурат Данияр Сарсенбекұлы",
+      "group": "ВТИПО-22",
+      "scores": {
+        "kaz": 78,
+        "kazlit": 81,
+        "rus": 75,
+        "foreign": 77,
+        "kzhist": 70,
+        "worldhist": 74,
+        "math": 75,
+        "info": 77,
+        "phys": 70,
+        "chem": 73,
+        "bio": 76,
+        "pe": 90
+      }
+    },
+    {
+      "id": "ed933335-1312-43ec-ae98-702decf64fbf",
+      "name": "Оңайбайұлы Ілияс",
+      "group": "ВТИПО-22",
+      "scores": {
+        "kaz": 84,
+        "kazlit": 89,
+        "rus": 75,
+        "foreign": 76,
+        "kzhist": 77,
+        "worldhist": 77,
+        "math": 80,
+        "info": 88,
+        "phys": 81,
+        "chem": 81,
+        "bio": 75,
+        "pe": 87
+      }
+    },
+    {
+      "id": "61b4a068-6db4-46a9-a735-e46baa5ac52b",
+      "name": "Оразбай Бақытжан Нұрланұлы",
+      "group": "ВТИПО-22",
+      "scores": {
+        "kaz": 91,
+        "kazlit": 93,
+        "rus": 96,
+        "foreign": 91,
+        "kzhist": 90,
+        "worldhist": 91,
+        "math": 95,
+        "info": 93,
+        "phys": 92,
+        "chem": 97,
+        "bio": 90,
+        "pe": 93
+      }
+    },
+    {
+      "id": "1caafae6-3908-48b9-ad6e-daca6a4edd41",
+      "name": "Серикхан Біржан Серикханұлы",
+      "group": "ВТИПО-22",
+      "scores": {
+        "kaz": 80,
+        "kazlit": 85,
+        "rus": 86,
+        "foreign": 87,
+        "kzhist": 75,
+        "worldhist": 75,
+        "math": 83,
+        "info": 93,
+        "phys": 73,
+        "chem": 73,
+        "bio": 77,
+        "pe": 81
+      }
+    },
+    {
+      "id": "45a38337-0ec1-4728-abdc-3da79714f808",
+      "name": "Тасубаев Даулет Кенжебекович",
+      "group": "ВТИПО-22",
+      "scores": {
+        "kaz": 94,
+        "kazlit": 94,
+        "rus": 100,
+        "foreign": 91,
+        "kzhist": 95,
+        "worldhist": 93,
+        "math": 94,
+        "info": 91,
+        "phys": 92,
+        "chem": 95,
+        "bio": 95,
+        "pe": 92
+      }
+    },
+    {
+      "id": "8b785f86-e554-4f4f-895e-29b41fd3802d",
+      "name": "Тлеубай Әлібек Максатұлы",
+      "group": "ВТИПО-22",
+      "scores": {
+        "kaz": 92,
+        "kazlit": 93,
+        "rus": 80,
+        "foreign": 77,
+        "kzhist": 91,
+        "worldhist": 93,
+        "math": 86,
+        "info": 88,
+        "phys": 90,
+        "chem": 82,
+        "bio": 93,
+        "pe": 90
+      }
+    },
+    {
+      "id": "ca73f133-98fd-4109-9908-ce0ae3d565f9",
+      "name": "Тойлыбай Нұрбек Убайдоллаұлы",
+      "group": "ВТИПО-22",
+      "scores": {
+        "kaz": 88,
+        "kazlit": 91,
+        "rus": 92,
+        "foreign": 90,
+        "kzhist": 78,
+        "worldhist": 89,
+        "math": 81,
+        "info": 92,
+        "phys": 84,
+        "chem": 86,
+        "bio": 76,
+        "pe": 92
+      }
+    },
+    {
+      "id": "5cf5ab69-4b38-4cda-ab86-2e07fa930731",
+      "name": "Туебаев Нұрдәулет Аманқұлұлы",
+      "group": "ВТИПО-22",
+      "scores": {
+        "kaz": 82,
+        "kazlit": 82,
+        "rus": 90,
+        "foreign": 76,
+        "kzhist": 79,
+        "worldhist": 79,
+        "math": 96,
+        "info": 92,
+        "phys": 87,
+        "chem": 81,
+        "bio": 75,
+        "pe": 85
+      }
+    },
+    {
+      "id": "4449ca63-2d10-4003-a990-4c409ae48c94",
+      "name": "Хамидуллаұлы Еркебұлан",
+      "group": "ВТИПО-22",
+      "scores": {
+        "kaz": 83,
+        "kazlit": 85,
+        "rus": 74,
+        "foreign": 76,
+        "kzhist": 73,
+        "worldhist": 75,
+        "math": 80,
+        "info": 90,
+        "phys": 74,
+        "chem": 70,
+        "bio": 75,
+        "pe": 90
+      }
+    },
+    {
+      "id": "56570e0b-17c0-4b80-a648-d0ee4fc38f5c",
+      "name": "Шайхынажим Марлен Қайратұлы",
+      "group": "ВТИПО-22",
+      "scores": {
+        "kaz": 80,
+        "kazlit": 86,
+        "rus": 95,
+        "foreign": 85,
+        "kzhist": 82,
+        "worldhist": 78,
+        "math": 81,
+        "info": 88,
+        "phys": 80,
+        "chem": 79,
+        "bio": 85,
+        "pe": 90
+      }
+    }
+  ]
+}

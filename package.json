@@ -1,0 +1,14 @@
+{
+  "name": "student-grades",
+  "version": "1.0.0",
+  "description": "Студенттердің үлгерімін есептеу жүйесі (Node.js + Express + HTML/CSS/JS)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "dependencies": {
+    "chart.js": "^4.4.0",
+    "express": "^4.19.2"
+  }
+}
